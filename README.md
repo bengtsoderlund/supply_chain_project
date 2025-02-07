@@ -1,6 +1,4 @@
-# Supply Chain Project
-
-Predicting Late Shipments: A Machine Learning Approach
+# Predicting Late Shipments: A Machine Learning Approach
 
 In this project, I use machine learning to develop two predictive models for a global sports and outdoor equipment retailer to proactively identify high-risk shipments before delays occur. The data, which is publicly available, is provided by DataCo and contains detailed order and shipping information. Using this data, I train two Random Forest machine learning classifiers:
 
